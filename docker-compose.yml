@@ -1,0 +1,35 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      - MOCK_MODE=${MOCK_MODE:-true}
+      - YOUTUBE_API_KEY=${YOUTUBE_API_KEY:-}
+      - QUOTE_API=${QUOTE_API:-zenquotes}
+      - DEBUG=${DEBUG:-false}
+      - EYE_ASPECT_RATIO_THRESHOLD=${EYE_ASPECT_RATIO_THRESHOLD:-0.25}
+      - HEAD_POSE_THRESHOLD=${HEAD_POSE_THRESHOLD:-30}
+      - YAWN_THRESHOLD=${YAWN_THRESHOLD:-0.5}
+      - NO_FACE_TIMEOUT=${NO_FACE_TIMEOUT:-3}
+      - DISTRACTION_COOLDOWN=${DISTRACTION_COOLDOWN:-2}
+    volumes:
+      - ./backend:/app
+    networks:
+      - focus-net
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    networks:
+      - focus-net
+
+networks:
+  focus-net:
+    driver: bridge
