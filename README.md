@@ -45,26 +45,28 @@ AI-Powered Focus Detection**: Real-time webcam monitoring with MediaPipe/OpenCV
 - **🔒 Security First**: Rate limiting, input validation, secure headers
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/e8c80e07-8f07-4ff6-9250-b5482f01d86d" />
 
 ### Docker Compose Running
-![Docker Compose Running](<img width="1080" height="723" alt="Screenshot 2025-10-18 005505" src="https://github.com/user-attachments/assets/add27421-9b53-4c32-aa5b-1e187d67356a" />
-)
+<img width="1113" height="649" alt="Screenshot 2025-10-18 005410" src="https://github.com/user-attachments/assets/bff7f536-3618-47de-97d4-e01e884c4b2e" />
+<img width="1189" height="672" alt="Screenshot 2025-10-18 005438" src="https://github.com/user-attachments/assets/ba9f224f-84b6-46f9-9553-0edceb6d3f12" />
+<img width="1080" height="724" alt="Screenshot 2025-10-18 005503" src="https://github.com/user-attachments/assets/19dde13a-12f9-4d73-9dea-1a47f78decfb" />
+
+
 *Screenshot placeholder: `docker-compose up --build` command running successfully*
 
 ### Landing Page
-![Landing Page](<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/3d105c1e-f056-4669-a992-425e328e0400" />
-)
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/3507913e-867a-450c-8311-025431484b48" />
+
 *Screenshot placeholder: Beautiful landing page with topic selection*
 
 ### Focus Mode
-![Focus Mode](<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/7ac2aacf-bef2-4f8e-b836-bd414233be76" />
-)
-*Screenshot placeholder: Live focus mode with webcam feed and AI monitoring*
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/d853f64c-e137-4f9b-8f5b-e8c2f6a5d1be" />
+
 
 ### Progress
-![Dashboard](<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/5cdf7482-c6e3-44ab-8d77-eb38ca40b5ce" />
-)
-*Screenshot placeholder: Progress dashboard with charts and statistics*
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/d8eddc62-869c-4521-b15c-f267a58d51f7" />
+
 
 
 
