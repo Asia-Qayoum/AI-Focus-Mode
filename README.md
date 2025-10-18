@@ -1,4 +1,4 @@
-# FocusBoost AI 🎯
+#                         FocusBoost AI 🎯
 
 > **AI-Powered Focus Tracking Web Application** - Stay focused with real-time webcam-based distraction detection, motivational content, and comprehensive progress analytics.
 
@@ -47,24 +47,26 @@ AI-Powered Focus Detection**: Real-time webcam monitoring with MediaPipe/OpenCV
 ## 📸 Screenshots
 
 ### Docker Compose Running
-![Docker Compose Running](docs/screenshots/docker-compose-running.png)
+![Docker Compose Running](<img width="1080" height="723" alt="Screenshot 2025-10-18 005505" src="https://github.com/user-attachments/assets/add27421-9b53-4c32-aa5b-1e187d67356a" />
+)
 *Screenshot placeholder: `docker-compose up --build` command running successfully*
 
 ### Landing Page
-![Landing Page](docs/screenshots/landing-page.png)
+![Landing Page](<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/3d105c1e-f056-4669-a992-425e328e0400" />
+)
 *Screenshot placeholder: Beautiful landing page with topic selection*
 
 ### Focus Mode
-![Focus Mode](docs/screenshots/focus-mode.png)
+![Focus Mode](<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/7ac2aacf-bef2-4f8e-b836-bd414233be76" />
+)
 *Screenshot placeholder: Live focus mode with webcam feed and AI monitoring*
 
-### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+### Progress
+![Dashboard](<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/5cdf7482-c6e3-44ab-8d77-eb38ca40b5ce" />
+)
 *Screenshot placeholder: Progress dashboard with charts and statistics*
 
-### API Documentation
-![API Docs](docs/screenshots/api-docs.png)
-*Screenshot placeholder: FastAPI interactive documentation at /docs*
+
 
 ## 🚀 Quick Start
 
