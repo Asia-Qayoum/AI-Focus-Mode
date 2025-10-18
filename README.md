@@ -45,7 +45,7 @@ AI-Powered Focus Detection**: Real-time webcam monitoring with MediaPipe/OpenCV
 - **🔒 Security First**: Rate limiting, input validation, secure headers
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/e8c80e07-8f07-4ff6-9250-b5482f01d86d" />
+
 
 ### Docker Compose Running
 <img width="1113" height="649" alt="Screenshot 2025-10-18 005410" src="https://github.com/user-attachments/assets/bff7f536-3618-47de-97d4-e01e884c4b2e" />
